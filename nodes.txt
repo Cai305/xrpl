@@ -1,0 +1,11 @@
+1.Generate Account
+2.Connect Account
+3.Configure Issuer
+4.Wait (Issuer Setup)
+5.Configure Hot Address
+6.Wait (Hot Address Setup)
+7.Make Trust Line
+8.Wait (TrustSet)
+9.Send Token
+10.Wait (Payment)
+11.Confirm Balances
